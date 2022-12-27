@@ -1,0 +1,515 @@
+@media only screen and (max-device-width: 480px)
+and (min-device-width:320px){
+    .carouselText{
+        padding: 1rem 0rem 4rem 0rem;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        color: white;
+        text-align: center;
+    }
+    .carousel-control-prev{
+        font-size: 30px;
+        color: rgba(255, 255, 255, 0.55);
+    }
+    .carousel-control-next{
+        font-size: 30px;
+    }
+    .orderIcon{
+        color: white;
+        font-size: 12px;
+        margin-left: 0.5rem;
+    }
+    .orderBtn {
+        margin-top: 0rem;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 18px;
+        color: #FFFFFF;
+        width: 148px;
+        height: 34px;
+    }
+    .homeBottomDiv{
+        margin-top: -6rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px;
+    }
+    .homeBottomDivImg{
+        max-width: 70%;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+    }
+    .serviceBtn {
+        width: 90px;
+        height: 45px;
+        font-size: 10px;
+    }
+    .customerBtn {
+        width: 90px;
+        height: 45px;
+        font-size: 10px;
+    }
+    .spanText2{
+        padding-top: 0rem;
+        margin-left: -1.5rem;
+        font-size: 12px;
+    }
+    .or{
+        font-size: 10px;
+        line-height: 30px;
+    }
+    .aboutUsSize{
+        padding: 2rem 0.5rem 0.5rem 0.5rem;
+    }
+    .parent{
+        padding: 2rem 0.5rem 0.5rem 0.5rem;
+    }
+    .aboutText{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 25px;
+        color: #451C60;
+    }
+    .name{
+        font-size: 12px;
+    }
+    .paragraph{
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        color: #000000;
+    }
+    .quoteColor{
+        color: #A6C20B;
+        font-size: 30px;
+    }
+    .testimonialSize{
+        padding: 4rem 0.5rem 0.5rem 0.5rem;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        position: absolute;
+        left: -10%;
+        right: 100%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+        opacity: 0.5;
+    }
+    .owl-carousel .owl-nav button.owl-next{
+        position: absolute;
+        left: 102%;
+        right: 0%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+    }
+    .formSize{
+        margin: -6rem 1rem 0rem 1rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px 20px 0px 0px;
+    }
+    .formInput{
+        border-radius: 20px;
+        background: #F2F2F2;
+        border-color: #F2F2F2;
+        height: 30px;
+        line-height: 12px;
+        font-size: 12px;
+        padding: 0.5rem 0.5rem 0.5rem 1rem;
+    }
+    .formMessage{
+        line-height: 18px;
+        padding: 1rem 0rem 3rem 1rem;
+    }
+    .learnBtn {
+        font-size: 12px;
+        width: 140px;
+        height: 30px;
+    }
+    .row .col-12:not(:last-child) {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        border-bottom-width: 3px;
+    }
+}
+@media only screen and (min-device-width: 768px)
+and (max-device-width: 1023px){
+    .carouselText{
+        padding: 1rem 15rem 4rem 15rem;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 30px;
+        color: white;
+        text-align: center;
+    }
+    .carousel-control-prev{
+        font-size: 30px;
+        color: rgba(255, 255, 255, 0.55);
+    }
+    .carousel-control-next{
+        font-size: 30px;
+    }
+    .orderIcon{
+        color: white;
+        font-size: 12px;
+        margin-left: 0.5rem;
+    }
+    .orderBtn {
+        margin-top: 0rem;
+        font-weight: 600;
+        font-size: 12px;
+        line-height: 18px;
+        color: #FFFFFF;
+        width: 148px;
+        height: 34px;
+    }
+    .homeBottomDiv{
+        margin: -5rem 0rem 1rem 0rem;
+        padding: 0.5rem 0.5rem 0rem 0.5rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px;
+
+    }
+    .homeBottomDivImg{
+        max-width: 80%;
+    }
+    .serviceBtn {
+        width: 120px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .customerBtn {
+        width: 120px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .spanText2{
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .or{
+        line-height: 43px;
+        font-size: 12px;
+    }
+    .aboutUsSize{
+        padding: 2rem 1rem 0rem 4rem;
+    }
+    .parent{
+        padding: 2rem 2rem 0rem 0rem;
+    }
+    .aboutText{
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 25px;
+        color: #451C60;
+    }
+    .name{
+        font-size: 12px;
+    }
+    .paragraph{
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 20px;
+        color: #000000;
+    }
+    .quoteColor{
+        color: #A6C20B;
+        font-size: 30px;
+    }
+    .testimonialSize{
+        padding: 4rem 2rem 0rem 0rem;
+    }
+    .imgSize{
+        padding: 5rem 0rem 0rem 2rem;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        position: absolute;
+        left: -10%;
+        right: 100%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+        opacity: 0.5;
+    }
+    .owl-carousel .owl-nav button.owl-next{
+        position: absolute;
+        left: 102%;
+        right: 0%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+    }
+    .formSize{
+        margin: -6rem 5rem 0rem 0rem;
+        padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px 20px 0px 0px;
+    }
+    .formInput{
+        border-radius: 20px;
+        background: #F2F2F2;
+        border-color: #F2F2F2;
+        height: 30px;
+        line-height: 12px;
+        font-size: 12px;
+        padding: 0.5rem 0.5rem 0.5rem 1rem;
+    }
+    .formMessage{
+        line-height: 18px;
+        padding: 1rem 0rem 3rem 1rem;
+    }
+    .learnBtn {
+        font-size: 12px;
+        width: 140px;
+        height: 30px;
+    }
+}
+@media only screen and (min-device-width: 1024px)
+and (max-device-width:1439px){
+
+    .carouselText{
+        padding: 1rem 17rem 5rem 17rem;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 50px;
+        color: white;
+        text-align: center;
+    }
+    .carousel-control-prev{
+        font-size: 30px;
+        color: rgba(255, 255, 255, 0.55);
+    }
+    .carousel-control-next{
+        font-size: 30px;
+    }
+    .orderBtn {
+        margin-top: 0rem;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 18px;
+        color: #FFFFFF;
+        width: 180px;
+        height: 50px;
+    }
+    .homeBottomDiv{
+        margin: -6rem 0rem 2rem 0rem;
+        padding: 1rem 1rem 0rem 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px;
+    }
+    .serviceBtn {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+    }
+    .customerBtn {
+        width: 150px;
+        height: 60px;
+        font-size: 15px;
+    }
+    .spanText2{
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .or{
+        line-height: 60px;
+    }
+    .aboutUsSize{
+        padding: 2rem 1rem 0rem 4rem;
+    }
+    .parent{
+        padding: 1rem 5rem 0rem 0rem;
+    }
+    .aboutText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 29px;
+        color: #451C60;
+    }
+    .paragraph{
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #000000;
+    }
+    .quoteColor{
+        color: #A6C20B;
+        font-size: 50px;
+    }
+    .testimonialSize{
+        padding: 4rem 3rem 0rem 0rem;
+    }
+    .imgSize{
+        padding: 7rem 0rem 0rem 5rem;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        position: absolute;
+        left: -8%;
+        right: 100%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+        opacity: 0.5;
+    }
+    .owl-carousel .owl-nav button.owl-next{
+        position: absolute;
+        left: 102%;
+        right: 0%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+    }
+    .formSize{
+        margin: -6rem 10rem 0rem 0rem;
+        padding: 1rem 2rem 1rem 2rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px 20px 0px 0px;
+    }
+    .formInput{
+        border-radius: 20px;
+        background: #F2F2F2;
+        border-color: #F2F2F2;
+        height: 35px;
+        line-height: 18px;
+        padding: 0.5rem 0.5rem 0.5rem 1rem;
+    }
+    .formMessage{
+        line-height: 18px;
+        padding: 1rem 0rem 3rem 1rem;
+    }
+    .learnBtn {
+        margin-top: 1rem;
+        width: 160px;
+        height: 45px;
+    }
+}
+@media only screen and (min-device-width: 1440px)
+and (max-device-width:2560px){
+
+    .navbarSpace{
+        margin-right: 1rem;
+    }
+    .carouselText{
+        padding: 4rem 25rem 8rem 25rem;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 61px;
+        color: white;
+        text-align: center;
+    }
+    .carousel-control-prev{
+        font-size: 30px;
+        color: rgba(255, 255, 255, 0.55);
+    }
+    .carousel-control-next{
+        font-size: 30px;
+    }
+    .homeBottomDiv{
+        margin: -6rem 0rem 2rem 0rem;
+        padding: 1rem 1rem 0rem 1rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px;
+    }
+    .or{
+        line-height: 100px;
+    }
+    .aboutUsSize{
+        padding: 2rem 3rem 0rem 10rem;
+    }
+    .aboutText{
+        font-weight: 700;
+        font-size: 35px;
+        line-height: 45px;
+        color: #451C60;
+    }
+    .paragraph{
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 25px;
+        color: #000000;
+    }
+    .quoteColor{
+        color: #A6C20B;
+        font-size: 50px;
+    }
+    .testimonialSize{
+        padding: 7rem 6rem 0rem 0rem;
+    }
+    .imgSize{
+        padding: 5rem 1rem 0rem 10rem;
+    }
+    .owl-carousel .owl-nav button.owl-prev{
+        position: absolute;
+        left: -8%;
+        right: 100%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+        opacity: 0.5;
+    }
+    .owl-carousel .owl-nav button.owl-next{
+        position: absolute;
+        left: 102%;
+        right: 0%;
+        top: 30%;
+        border-radius: 50%;
+        border: 1px solid purple !important;
+        width: 40px;
+        height: 40px;
+        line-height: 30px !important;
+    }
+    .formSize{
+        margin: -4rem 10rem 0rem 0rem;
+        padding: 1rem 2rem 2rem 2rem;
+        background: #FFFFFF;
+        box-shadow: 0px 20px 50px rgba(0, 0, 0, 0.05);
+        border-radius: 20px 20px 0px 0px;
+    }
+    .formInput{
+        border-radius: 20px;
+        background: #F2F2F2;
+        border-color: #F2F2F2;
+        height: 52px;
+        line-height: 18px;
+        padding: 0.5rem 0.5rem 0.5rem 1rem;
+    }
+    .formMessage{
+        height: 52px;
+        line-height: 18px;
+        padding: 0.5rem 0.5rem 5rem 1rem;
+    }
+    .footertext{
+        padding-left: 3rem;
+    }
+}
